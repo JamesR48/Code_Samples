@@ -7,4 +7,4 @@ Here is a link to a Github repo containing these files too: https://github.com/J
 
 Here is a link to my Game Dev demo reel where you can see the prototypes where this classes are used: https://shorturl.at/cjtuN
 
-The Unity source is from the 2nd game presented in the video (a Beat em' Up called "Como Fua"), and the UE4 sources are from the 3rd game (a shooting/driving game called "Crazy Tank")
+The Unity source is from the 2nd game presented in the video (a Beat 'em Up called "Como Fua"), and the UE4 sources are from the 3rd game (a shooting/driving game called "Crazy Tank")
